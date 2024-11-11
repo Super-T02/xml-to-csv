@@ -105,4 +105,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ### Icon
 
-The icon used in this project (`logo.png`) was generated using DALL-E. Please ensure to comply with OpenAI's usage policies when using or distributing this image.
+The icon used in this project `logo.png` was generated using DALL-E. Please ensure to comply with OpenAI's usage policies when using or distributing this image.
