@@ -43,5 +43,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: dist-${{ runner.os }}-${{ matrix.python-version }}
+        name: xml-to-csv-${{ runner.os }}-${{ runner.arch }}.exe
         path: dist/
