@@ -22,20 +22,23 @@ This project is a simple XML-to-CSV parser built using Python. It reads an XML f
 ## Installation
 
 1. Clone the repository:
-    ```sh
+
+    ```bash
     git clone https://github.com/yourusername/xml-to-csv.git
     cd xml-to-csv
     ```
 
 2. Install the required packages:
-    ```sh
+
+    ```bash
     pip install -r requirements.txt
     ```
 
 ## Usage
 
 1. Run the application:
-    ```sh
+
+    ```bash
     python src/main.py
     ```
 
@@ -49,12 +52,14 @@ This project is a simple XML-to-CSV parser built using Python. It reads an XML f
 To build the application into an executable file, you can use PyInstaller. Follow these steps:
 
 1. Install PyInstaller:
-    ```sh
+
+    ```bash
     pip install pyinstaller
     ```
 
 2. Build the executable:
-    ```sh
+
+    ```bash
     pyinstaller --onefile src/main.py --icon logo.ico
     ```
 
@@ -67,24 +72,28 @@ If you want to fork and work on your own version of this project, follow these s
 1. Fork the repository on GitHub.
 
 2. Clone your forked repository:
-    ```sh
+
+    ```bash
     git clone https://github.com/yourusername/xml-to-csv.git
     cd xml-to-csv
     ```
 
 3. Create a new branch for your feature or bugfix:
-    ```sh
+
+    ```bash
     git checkout -b my-feature-branch
     ```
 
 4. Make your changes and commit them:
-    ```sh
+
+    ```bash
     git add .
     git commit -m "Description of your changes"
     ```
 
 5. Push your changes to your forked repository:
-    ```sh
+
+    ```bash
     git push origin my-feature-branch
     ```
 
