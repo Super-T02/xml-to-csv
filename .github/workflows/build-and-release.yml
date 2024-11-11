@@ -44,4 +44,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: xml-to-csv-${{ runner.os }}-${{ runner.arch }}.exe
-        path: dist/
+        path: dist/*xml-to-csv*
