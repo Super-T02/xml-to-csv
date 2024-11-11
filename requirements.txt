@@ -1,0 +1,6 @@
+tk
+pandas
+numpy
+lxml
+ipython
+ipykernel
