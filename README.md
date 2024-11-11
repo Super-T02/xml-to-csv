@@ -60,7 +60,7 @@ To build the application into an executable file, you can use PyInstaller. Follo
 2. Build the executable:
 
     ```bash
-    pyinstaller --onefile src/main.py --icon logo.ico
+    pyinstaller --onefile --name xml-to-csv src/main.py --icon logo.ico
     ```
 
 3. The executable will be created in the `dist` directory.
@@ -105,4 +105,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 
 ### Icon
 
-The icon used in this project (`logo.png`) was generated using DALL-E. Please ensure to comply with OpenAI's usage policies when using or distributing this image.
+The icon used in this project `logo.png` was generated using DALL-E. Please ensure to comply with OpenAI's usage policies when using or distributing this image.
